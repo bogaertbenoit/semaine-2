@@ -1,0 +1,24 @@
+body{ 
+    background-color: tomato;
+    background: url(https://static1.purebreak.com/articles/6/18/02/56/@/683686-naruto-x-adidas-des-sneakers-inspires-diapo-1.jpg)no-repeat center center fixed;
+    background-size: cover;
+}
+h1{ 
+    color: blue;
+    font-size: 75px;
+    font-weight: bold;
+    font-family: georgia;
+}
+ul{ 
+    color: green;
+    font-family: 'Amatic SC', cursive;
+    font-size: 45px;
+}
+.bordure{
+    border: 4px dotted blue;
+    opacity:0.5;
+}
+
+.centre{
+    text-align: center;
+}
